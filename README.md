@@ -72,21 +72,21 @@ student-management-system/
 
 <h2>Usage</h2>
 1.Register Users:
-    <ul>
+    <ul type="disc">
     Navigate to the home page (/) and register an admin user (e.g., username: admin1, password: password, role: admin).<br>Register a user (e.g., username: user1, password: password, role: user).</ul>
 2.Log In:
-    <ul>
+    <ul type="disc">
     Log in as an admin to access the Admin Dashboard (/admin).
     <br>Log in as a user to access the User Dashboard (/user).
     </ul>
 3.Admin Actions:
-    <ul>
+    <ul type="disc">
     Use the Admin Dashboard to add, edit, or delete students (e.g., name: John Doe, email: john@example.com, age: 20, grade: A).
     <br>Verify that the student list updates dynamically.
     </ul>
 4.User Actions:
-    <ul>Use the User Dashboard to view the student list (read-only, no edit/delete options).</ul>
+    <ul type="disc">Use the User Dashboard to view the student list (read-only, no edit/delete options).</ul>
 5.Test Responsiveness:
-    <ul>Resize the browser or test on a mobile device to confirm the UI adapts to different screen sizes.</ul>
+    <ul type="disc">Resize the browser or test on a mobile device to confirm the UI adapts to different screen sizes.</ul>
 
 <hr>
