@@ -72,17 +72,21 @@ student-management-system/
 
 <h2>Usage</h2>
 1.Register Users:
-<br><br>Navigate to the home page (/) and register an admin user (e.g., username: admin1, password: password, role: admin).
-<br><br>Register a user (e.g., username: user1, password: password, role: user).
+    <ul>
+    Navigate to the home page (/) and register an admin user (e.g., username: admin1, password: password, role: admin).<br>Register a user (e.g., username: user1, password: password, role: user).</ul>
 2.Log In:
-<br><br>Log in as an admin to access the Admin Dashboard (/admin).
-<br><br>Log in as a user to access the User Dashboard (/user).
+    <ul>
+    Log in as an admin to access the Admin Dashboard (/admin).
+    <br>Log in as a user to access the User Dashboard (/user).
+    </ul>
 3.Admin Actions:
-<br><br>Use the Admin Dashboard to add, edit, or delete students (e.g., name: John Doe, email: john@example.com, age: 20, grade: A).
-<br><br>Verify that the student list updates dynamically.
+    <ul>
+    Use the Admin Dashboard to add, edit, or delete students (e.g., name: John Doe, email: john@example.com, age: 20, grade: A).
+    <br>Verify that the student list updates dynamically.
+    </ul>
 4.User Actions:
-<br><br>Use the User Dashboard to view the student list (read-only, no edit/delete options).
+    <ul>Use the User Dashboard to view the student list (read-only, no edit/delete options).</ul>
 5.Test Responsiveness:
-<br><br>Resize the browser or test on a mobile device to confirm the UI adapts to different screen sizes.
+    <ul>Resize the browser or test on a mobile device to confirm the UI adapts to different screen sizes.</ul>
 
 <hr>
